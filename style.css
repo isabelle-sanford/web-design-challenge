@@ -36,14 +36,12 @@
   
   /* Selecting elements by class */
   .col-md-8 {
-    /* margin: 10px; */
-    background-color: aqua;
-    /* border: 5px solid red; */
+    padding: 10px;
+
   }
   .col-md-4 {
-    /* margin: 10px; */
-    background-color: rgb(132, 0, 255);
-    /* border: 5px solid red; */
+    padding: 10px;
+
   }
   
   /* Selecting elements by ID */
