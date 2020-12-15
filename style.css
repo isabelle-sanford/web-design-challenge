@@ -3,7 +3,7 @@
  */
 
 /* Styling for HTML elements */
-/* body {
+body {
     padding: 0;
     margin: 0;
     font-family: Georgia, "Times New Roman", Times, serif;
@@ -11,7 +11,7 @@
     line-height: 150%;
     color: #333;
     background: #efeee7;
-  } */
+  }
   
   header {
     background: #333;
@@ -44,29 +44,35 @@
     padding: 10px;
 
   }
+  .col-md-6 {
+    padding: 2px;
+  }
+
+  .jumbotron {
+    min-height: 50px;
+    padding: 20px;
+    margin: 5px;
+    font-weight: 800;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+  }
   
   /* Selecting elements by ID */
   #main-bio,
   #contact-info,
-  #bio-image {
+  #inset-img {
     float: left;
-    /* margin: 10 auto;
-    padding: 10 auto; */
+    margin: 10 auto;
+    padding: 10 auto;
   }
   
-  #figure {
+  /* #figure {
     position: relative;
-  }
-  
-  #bio-name {
-    position: absolute;
-    top: 150px;
-    left: 30px;
+  } */
 
-  }
 
   
-  #bio-image {
+  #inset-img {
     width: 200px;
     height: 200px;
     margin-right: 20px;
