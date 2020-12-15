@@ -3,72 +3,97 @@
  */
 
 /* Styling for HTML elements */
-/* body {
-    padding: 0;
-    margin: 0;
-    font-family: Georgia, "Times New Roman", Times, serif;
-    font-size: 18px;
-    line-height: 150%;
-    color: #333;
-    background: #efeee7;
-  } */
-  
-  header {
-    background: #333;
-  }
-  
-  h1 {
-    /* padding: 20px 0;
-    margin: 0;
-    margin-bottom: 10px; */
-    font-size: 28px;
-    color: blue;
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-  }
-  
-  h2 {
-    font-size: 24px;
-  }
-  
-  a {
-    color: #d21034;
-  }
-  
-  /* Selecting elements by class */
-  .col-md-8 {
-    padding: 10px;
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333;
+  background: #efeee7;
+}
 
-  }
-  .col-md-4 {
-    padding: 10px;
+header {
+  background: #333;
+}
 
-  }
-  
-  /* Selecting elements by ID */
-  #main-bio,
-  #contact-info,
-  #bio-image {
-    float: left;
-    /* margin: 10 auto;
-    padding: 10 auto; */
-  }
-/*   
-  #figure {
-    position: relative;
-  }
-  
-  #bio-name {
-    position: absolute;
-    top: 150px;
-    left: 30px;
+h1 {
+  /* padding: 20px 0;
+  margin: 0;
+  margin-bottom: 10px; */
+  font-size: 28px;
+  color: blue;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
 
-  } */
+h2 {
+  font-size: 24px;
+}
 
-  
-  #bio-image {
-    width: 200px;
-    height: 200px;
-    margin-right: 20px;
-  }
-  
+
+
+a {
+  color: #d21034;
+}
+
+/* Selecting elements by class */
+.col-md-8 {
+  padding: 10px;
+
+}
+.col-md-4 {
+  padding: 10px;
+
+}
+.col-md-6 {
+  padding: 2px;
+}
+
+.jumbotron {
+  min-height: 50px;
+  padding: 20px;
+  margin: 5px;
+  font-weight: 800;
+  color: rgb(0, 0, 0);
+  background: rgb(255, 255, 255);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/* Selecting elements by ID */
+#main-bio,
+#contact-info,
+#inset-img {
+  float: left;
+  margin: 10 auto;
+  padding: 10 auto;
+}
+
+/* #figure {
+  position: relative;
+} */
+
+
+
+#inset-img {
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+}
+
+/* 
+#viz {
+  position: absolute;
+  top: 20%;
+ */
+  /* The distance from the left margin edge of the element to the left edge of
+  *  the window is 45% of the width of the window. The window is the initial
+  *  containing block, used here because there is no positioned ancestor. */
+  /* left: 75%;
+} */
