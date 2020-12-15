@@ -1,7 +1,7 @@
 Things to do:
 - different versions of graphs, square and rectangle?
-- make data page
-don't need two style sheets
+- make data page better
+
 blue border around current viz page in the right sidebar
 write actual text
 blue navbar

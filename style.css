@@ -31,9 +31,9 @@ body {
     font-size: 24px;
   }
 
-  /* p {
+  p {
     font-weight: normal;
-  } */
+  }
 
   
   
@@ -80,7 +80,10 @@ body {
   }
   
 
-
+  #curr-viz {
+    border-radius: 20px;
+    border-color: blue;
+  }
 
   
   #inset-img {
@@ -92,7 +95,7 @@ body {
   /* table stuff */
   
   td {
-    /* font-weight: normal; */
+    font-weight: normal;
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
