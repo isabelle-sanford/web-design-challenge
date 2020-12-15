@@ -1,6 +1,9 @@
 Things to do:
 - different versions of graphs, square and rectangle?
-- center img on viz pages
-- make data pages
+- make data page
 don't need two style sheets
 blue border around current viz page in the right sidebar
+write actual text
+blue navbar
+work on change on sizing
+little style stuff

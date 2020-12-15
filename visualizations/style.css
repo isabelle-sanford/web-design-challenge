@@ -87,13 +87,4 @@ a {
   margin-right: 20px;
 }
 
-/* 
-#viz {
-  position: absolute;
-  top: 20%;
- */
-  /* The distance from the left margin edge of the element to the left edge of
-  *  the window is 45% of the width of the window. The window is the initial
-  *  containing block, used here because there is no positioned ancestor. */
-  /* left: 75%;
-} */
+
