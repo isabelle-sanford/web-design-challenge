@@ -81,8 +81,9 @@ body {
   
 
   #curr-viz {
-    border-radius: 20px;
+    border-radius: 10px;
     border-color: blue;
+    border-width: 5px;
   }
 
   
