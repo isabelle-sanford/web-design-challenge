@@ -1,0 +1,9 @@
+Things to do:
+- different versions of graphs, square and rectangle?
+- make data page better
+
+
+write actual text
+blue navbar
+work on change on sizing
+little style stuff
