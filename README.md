@@ -66,7 +66,7 @@ Small screen:
 
 ### <a id="visualization-pages"></a>Visualization pages
 
-You'll build four of these, one for each visualization. Here's an example of one:
+There are visualization pages, one for each variable. Here's an example of one:
 
 Large screen:
 
